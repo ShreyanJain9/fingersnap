@@ -1,0 +1,29 @@
+PATH
+  remote: .
+  specs:
+    fingersnap (0.0.1)
+      httparty
+      json
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    httparty (0.21.0)
+      mini_mime (>= 1.0.0)
+      multi_xml (>= 0.5.2)
+    json (2.6.3)
+    mini_mime (1.1.2)
+    multi_xml (0.6.0)
+    rake (13.0.6)
+    rufo (0.16.1)
+
+PLATFORMS
+  x86_64-darwin-22
+
+DEPENDENCIES
+  fingersnap!
+  rake (~> 13.0)
+  rufo
+
+BUNDLED WITH
+   2.4.12
