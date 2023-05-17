@@ -5,7 +5,7 @@ require_relative "lib/fingersnap/version"
 Gem::Specification.new do |spec|
   spec.name = "fingersnap"
   spec.version = Fingersnap::VERSION
-  spec.authors = ["ShreyanJain9"]
+  spec.authors = ["Shreyan Jain"]
   spec.email = ["shreyan.jain.9@outlook.com"]
 
   spec.summary = "no summary: to do: Write a short summary, because RubyGems requires one."
